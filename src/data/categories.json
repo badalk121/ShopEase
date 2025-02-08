@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "description": "Latest gadgets and devices",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=500"
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "description": "Trendy clothing and accessories",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=500"
+    },
+    {
+      "id": 3,
+      "name": "Home & Living",
+      "description": "Furniture and home decor",
+      "image": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=500"
+    },
+    {
+      "id": 4,
+      "name": "Books",
+      "description": "Books and stationery",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=500"
+    }
+  ]
+}

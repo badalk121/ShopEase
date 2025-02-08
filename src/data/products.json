@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "iPhone 14 Pro",
+      "price": 79999,
+      "description": "Latest Apple iPhone with advanced features",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+      "freeDelivery": true,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "MacBook Pro M2",
+      "price": 129999,
+      "description": "Powerful laptop for professionals",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+      "freeDelivery": true,
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "Designer T-Shirt",
+      "price": 1499,
+      "description": "Premium cotton casual t-shirt",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+      "freeDelivery": true,
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Leather Jacket",
+      "price": 4999,
+      "description": "Classic leather jacket",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
+      "freeDelivery": false,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "categoryId": 3,
+      "name": "Modern Sofa",
+      "price": 34999,
+      "description": "Contemporary 3-seater sofa",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=500",
+      "freeDelivery": false,
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "name": "Table Lamp",
+      "price": 1999,
+      "description": "Elegant desk lamp",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500",
+      "freeDelivery": true,
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "name": "The Midnight Library",
+      "price": 499,
+      "description": "Bestselling novel by Matt Haig",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500",
+      "freeDelivery": true,
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "categoryId": 4,
+      "name": "Premium Notebook",
+      "price": 299,
+      "description": "High-quality journal",
+      "image": "https://images.unsplash.com/photo-1517970640957-53b2479b919f?w=500",
+      "freeDelivery": true,
+      "rating": 4.5
+    }
+  ]
+}
