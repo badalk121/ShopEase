@@ -40,34 +40,6 @@ ShopEase is a modern e-commerce application built with React, showcasing a fully
    npm start
 5. Open your browser and visit http://localhost:3000
 
-## Project Structure
-
-shopease/
-|-- public/
-| |-- index.html
-| |-- manifest.json
-|-- src/
-| |-- components/
-| | |-- Header.js
-| | |-- ProductCard.js
-| | |-- CartItem.js
-| | |-- CurrencySymbol.js
-| |-- context/
-| | |-- CartContext.js
-| |-- data/
-| | |-- categories.json
-| | |-- products.json
-| |-- pages/
-| | |-- Home.js
-| | |-- Category.js
-| | |-- Checkout.js
-| |-- utils/
-| | |-- currency.js
-| |-- theme.js
-| |-- App.js
-| |-- index.js
-|-- package.json
-
 ## Key Features Implemented
 
 1. Home Page
